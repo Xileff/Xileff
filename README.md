@@ -4,7 +4,7 @@
 
 🎓 I am Felix, a **Software Engineer** (specializing in **Back End Development**). I am also pursuing my Bachelor's in **Information Technology** and will graduate in mid-2024.
 
-👨‍💻 I like writing **clean code** and have practiced it during my internship or personal projects. I am really enthusiastic about learning new technology. In 2023, I learned **Node.js**, **Flask RESTful**, **Spring Boot**, **Docker** and **Google Cloud Platform**. I learned them during [**Bangkit Academy 2023 led by Google, GoTo, & Traveloka**](https://grow.google/intl/id_id/bangkit/) and [**internship**] at (https://www.metrodataacademy.id/) quite recently.
+👨‍💻 I like writing **clean code** and have practiced it during my internship or personal projects. I am really enthusiastic about learning new technology. In 2023, I learned **Node.js**, **Flask RESTful**, **Spring Boot**, **Docker** and **Google Cloud Platform**. I learned them during my **apprenticeship** at [**Bangkit Academy 2023 led by Google, GoTo, & Traveloka**](https://grow.google/intl/id_id/bangkit/) and **internship** at [**Metrodata**](https://www.metrodataacademy.id/) quite recently.
 
 🎸 Outside the world of tech, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **reading books**, and **watching anime**.
 
